@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "flowbite": "^2.2.1",
+    "nuxt": "^3.10.0",
+    "tailwind": "^4.0.0",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5",
+    "vue3-tour": "^0.3.4"
+  }
+}
